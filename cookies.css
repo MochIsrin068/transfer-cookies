@@ -1,0 +1,14 @@
+html, body {
+  width: 500px;
+}
+
+.panel {
+  padding: 5px;
+}
+
+.items-wrapper{
+  overflow-y: scroll;
+  max-height: 300px;
+  padding-bottom: 6px;
+  padding-bottom: 6px;
+}
